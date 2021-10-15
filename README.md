@@ -10,7 +10,7 @@ The purpose of this project it to take the NYC Citi Bike share data to convince 
 
 [link to dashboard - Start & Stop Time](https://public.tableau.com/app/profile/rachel5588/viz/NYCCitiBikes_16274871634820/NYCStory?publish=yes)
 
-1) There were 2,344,224 bike trips in August 
+1) There were 2,344,224 bike trips in August.
 
 2) 1,900,359 users subscribe to the bikeshare program and 443,865 users are customers.
 
