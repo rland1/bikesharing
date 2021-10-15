@@ -16,7 +16,7 @@ The purpose of this project it to take the NYC Citi Bike share data to convince 
 
 ![image_name](images/Checkout_Times_Useres.png)
 
-3) Majority of users checkout a bike for around 5-6 minutes. 
+3) Majority of users checkout a bike for around 5 to 6 minutes. 
 
 ![image_name](images/Trips_Weekday_Gender.png)
 
