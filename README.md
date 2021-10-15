@@ -34,7 +34,7 @@ The purpose of this project it to take the NYC Citi Bike share data to convince 
 
 7) When comparing the hourly bike times by gender, we see that men make up the majority of times during popular commute times (8am and 5pm)
 
-## Summary 
+## Summary of Analysis
 
 Considering the results from the visualizations above, we can see that majority of riders are men, thursday evenings are the most popular times, and majority of users are subscribers to the service. 
 
