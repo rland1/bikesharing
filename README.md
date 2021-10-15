@@ -28,7 +28,7 @@ The purpose of this project it to take the NYC Citi Bike share data to convince 
 
 ![image_name](images/UserTrips_Gender.png)
 
-6) We can see that majority of the user types are subscribers, and mainly men. Thursday and Friday seem to be the most popular day to checkout a bike. 
+6) We can see that majority of the user types are subscribers, and majority are men. Thursday and Friday seem to be the most popular day to checkout a bike. 
 
 ![image_name](images/Checkout_Times_Gender.png)
 
