@@ -1,6 +1,6 @@
 # Bikesharing Analysis
 
-## Overview
+## Overview of Analysis
 
 The purpose of this project it to take the NYC Citi Bike share data to convince investors that this is a good program to implement in Des Moines. We are providing a bike trip analysis using trip duration, gender, time on bikes, etc to aid in their decision. 
 
