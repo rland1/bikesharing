@@ -4,7 +4,7 @@
 
 The purpose of this project it to take the NYC Citi Bike share data to convince investors that this is a good program to implement in Des Moines. We are providing a bike trip analysis using trip duration, gender, time on bikes, etc to aid in their decision. 
 
-## Results
+## Results of Analysis
 
 [link to dashboard - Info by Gender etc](https://public.tableau.com/app/profile/rachel5588/viz/NYCCitiBikeAnalysis-Deliverable/UserTripsbyGenderbyWeekday?publish=yes)
 
