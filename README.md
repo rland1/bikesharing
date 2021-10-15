@@ -20,7 +20,7 @@ The purpose of this project it to take the NYC Citi Bike share data to convince 
 
 ![image_name](images/Trips_Weekday_Gender.png)
 
-4) Majority of the users to checkout bikes are Males (108K male vs 33K female)
+4) Majority of the users to checkout bikes are males (108K male vs 33K female)
 
 ![image_name](images/Trips_Weekday_Hour.png)
 
@@ -36,7 +36,7 @@ The purpose of this project it to take the NYC Citi Bike share data to convince 
 
 ## Summary of Analysis
 
-Considering the results from the visualizations above, we can see that majority of riders are men, thursday evenings are the most popular times, and majority of users are subscribers to the service. 
+Considering the results from the visualizations above, we can see that majority of riders are men, Thursday evenings are the most popular times, and majority of users are subscribers to the service. 
 
 Additional suggestions: 
 - We should perform this analysis on a different time of year. August will have lots of traffic due to the warm weather, however Winter may be quite dead, and could offset profits. 
