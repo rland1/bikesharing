@@ -20,7 +20,7 @@ The purpose of this project it to take the NYC Citi Bike share data to convince 
 
 ![image_name](images/Trips_Weekday_Gender.png)
 
-4) Majority of the users to checkout bikes are males (108K male vs 33K female)
+4) Majority of the users to checkout bikes are males (108K male vs 33K female).
 
 ![image_name](images/Trips_Weekday_Hour.png)
 
@@ -32,7 +32,7 @@ The purpose of this project it to take the NYC Citi Bike share data to convince 
 
 ![image_name](images/Checkout_Times_Gender.png)
 
-7) When comparing the hourly bike times by gender, we see that men make up the majority of times during popular commute times (8am and 5pm)
+7) When comparing the hourly bike times by gender, we see that men make up the majority of times during popular commute times (8am and 5pm).
 
 ## Summary of Analysis
 
